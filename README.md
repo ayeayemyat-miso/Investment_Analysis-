@@ -39,7 +39,9 @@ The report is organized into the following sections:
 ---
 
 ## Disclaimer  
-This analysis is **for educational and illustrative purposes only**. It does not constitute financial advice, endorsement, or guarantee of future performance. Data sources are cited but not independently verified.
+This analysis is **for educational and illustrative purposes only**. It does not constitute financial advice, endorsement, or guarantee of future performance. 
+-No Affiliation with Kerry Group. 
+
 ---
 
 ## Data Sources  
